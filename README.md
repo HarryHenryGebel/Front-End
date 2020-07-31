@@ -1,17 +1,15 @@
 # Front-End
 
-Implement CheckBox?
-Make Text Darker Somehow?
+# Start Up
+npm install 
 
-Monday: 
-Make Sure Everything Passes Up/Down
-3. Fake Axios Poster
-4. Write and Center Success Page
+will install all dependencies
 
+# Languages
 
-Have Fun with Cypress Testing
+This project was coded in React(Hooks)
+HTML5, CSS3, and MaterialUI
 
+# Changes
 
-
-Stretch:
-Custom Loading Image: Filling Water Drop? Spinning Flower?
+Fork your own copy
